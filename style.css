@@ -1,15 +1,10 @@
 body {
-  background-image: url("picnictable.png");
+  background-color: white;
 }
 
 #title {
   text-align: center;
   font-family: "Arial Black";
-}
-
-#us {
-  text-align: center;
-  font-size: 10px;
 }
 
 p {
